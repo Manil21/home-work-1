@@ -5,6 +5,13 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
+@media screen and (max-width: 1024px){
+
+}
+@media screen and (max-width: 768px){
+
+}
+
 .icon img {
   width: 50px;
 }
